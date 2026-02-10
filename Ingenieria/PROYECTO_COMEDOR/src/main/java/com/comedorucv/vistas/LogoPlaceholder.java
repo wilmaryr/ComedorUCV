@@ -8,6 +8,7 @@ import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.RenderingHints;
 import java.io.IOException;
+
 import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
@@ -29,7 +30,6 @@ public class LogoPlaceholder extends JPanel {
                 }
             }
         } catch (IOException e) {
-            // ignore
         }
     }
 
