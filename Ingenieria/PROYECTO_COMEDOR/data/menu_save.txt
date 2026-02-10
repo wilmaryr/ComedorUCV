@@ -1,0 +1,3 @@
+LUNES	DESAYUNO		Pollo a la Canasta con Papas	Asado Negro con Arroz	Té Helado	Dulce de Lechosa	5	2
+MIERCOLES	ALMUERZO	holis	Asado Negro con Arroz	Pasta a la Boloñesa	Jugo de Parchita	Dulce de Lechosa	40	40
+JUEVES	DESAYUNO	holis	Pabellón Criollo	Arepa Pelúa	Té Helado	Dulce de Lechosa	100	52
