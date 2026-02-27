@@ -1,0 +1,8 @@
+30849360,wilmary rodriguez,w@gmail.com,12345678,Estudiante
+31866942,Daniel Bonafina,d@gmail.com,123456789,Administrador
+11111111,Andrea Gonzalez,a@gmail.com,12345678,Empleado
+12345678,Juan Perez,juan@gmail.com,12345678,Profesor
+23456789,Diego Leon,dinga@gmail.com,12345678,Estudiante
+12345677,Alexandra Zambrano,al@gmail.com,12345678,Estudiante
+111111,A G,m@gmail.com,12345678,Empleado
+12345666,Petronila G,p@hotmail.com,12345678,Estudiante

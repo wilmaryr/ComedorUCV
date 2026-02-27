@@ -1,0 +1,2 @@
+Transacción: 2026-02-25 23:56 | Detalle: Recarga vía VentanaMonedero | Nuevo saldo: 200.00 bs
+Transacción: 2026-02-25 23:57 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 20.00 bs

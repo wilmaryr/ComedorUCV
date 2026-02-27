@@ -1,0 +1,3 @@
+1772079049389	LUNES	DESAYUNO	Arroz con pollo, Tajadas, Tajadas, Agua, Torta	255.00
+1772079058212	MARTES	DESAYUNO	Arroz con pollo, Tajadas, Agua, Torta	195.00
+1772079172700	VIERNES	DESAYUNO	Arroz con pollo, Tajadas, Agua, Torta	195.00

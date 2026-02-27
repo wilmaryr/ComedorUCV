@@ -1,0 +1,5 @@
+VIERNES	DESAYUNO	Arroz con pollo	Tajadas		Agua	Torta	5	4
+VIERNES	ALMUERZO	Pasta con carne molida	Tajadas		Agua	Torta	500	799
+MARTES	ALMUERZO	Arroz con pollo	Tajadas	Tajadas		Torta	1200	200
+JUEVES	DESAYUNO	Arroz con pollo	Tajadas		Agua		200	44
+JUEVES	ALMUERZO	Arroz con pollo	Tajadas	Tajadas	Agua	Torta	8	4

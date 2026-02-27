@@ -1,0 +1,6 @@
+PLATO	Arroz con pollo	70	0.0	1.0	0.0	70.00
+CONTORNO	Tajadas	60	0.0	1.0	0.0	60.00
+BEBIDA	Agua	50	0.0	1.0	0.0	50.00
+POSTRE	Torta	60	60	10	25	15.00
+PLATO	Pasta con carne molida	70	50	10	20	14.40
+CONTORNO	Papas fritas	20	50	1.0	0.0	70.00

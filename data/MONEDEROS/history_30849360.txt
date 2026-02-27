@@ -1,0 +1,10 @@
+Transacción: 2026-02-25 20:53 | Detalle: Recarga vía VentanaMonedero | Nuevo saldo: 200.00 bs
+Transacción: 2026-02-25 23:25 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua, Torta) | Nuevo saldo: 200.00 bs
+Transacción: 2026-02-26 00:11 | Detalle: Recarga vía VentanaMonedero | Nuevo saldo: 1200.00 bs
+Transacción: 2026-02-26 00:13 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 1020.00 bs
+Transacción: 2026-02-26 00:17 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 840.00 bs
+Transacción: 2026-02-26 00:18 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Tajadas, Agua, Torta) | Nuevo saldo: 585.00 bs
+Transacción: 2026-02-26 00:32 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 405.00 bs
+Transacción: 2026-02-26 00:32 | Detalle: Recarga vía VentanaMonedero | Nuevo saldo: 1405.00 bs
+Transacción: 2026-02-26 00:42 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Tajadas, Agua, Torta) | Nuevo saldo: 1150.00 bs
+Transacción: 2026-02-26 22:48 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 970.00 bs
