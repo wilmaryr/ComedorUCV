@@ -1,0 +1,2 @@
+Transacción: 2026-03-12 19:04 | Detalle: Recarga vía VentanaMonedero (Ref: 444444) | Nuevo saldo: 200.00 bs
+Transacción: 2026-03-12 19:04 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas) | Nuevo saldo: 198.90 bs

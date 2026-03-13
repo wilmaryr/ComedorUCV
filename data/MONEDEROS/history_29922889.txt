@@ -1,0 +1,3 @@
+Transacción: 2026-03-02 14:30 | Detalle: Recarga vía VentanaMonedero (Ref: 123457) | Nuevo saldo: 200.00 bs
+Transacción: 2026-03-11 15:59 | Detalle: Saldo Pana recibido <- Wilmary Rodriguez (CI: 30849360) | Nuevo saldo: 210.00 bs
+Transacción: 2026-03-12 18:24 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 203.59 bs

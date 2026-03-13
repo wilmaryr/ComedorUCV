@@ -1,3 +1,0 @@
-30849360,wilmary rodriguez,w@gmail.com,12345678,Estudiante
-31866942,Daniel Bonafina,d@gmail.com,123456789,Administrador
-11111111,Andrea Gonzalez,a@gmail.com,12345678,Empleado

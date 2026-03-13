@@ -1,0 +1,2 @@
+LUNES	ALMUERZO	Arroz con pollo					2	2
+JUEVES	DESAYUNO	Arroz con pollo	Tajadas				4	2

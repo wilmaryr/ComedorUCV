@@ -1,0 +1,7 @@
+30849360,Wilmary Rodriguez,w@gmail.com,12345678,Estudiante 
+31866942,Daniel Bonafina,d@gmail.com,123456789,Administrador
+29922889,Andrea Gonzalez,a@gmail.com,12345678,Empleado
+32565857,Daniel Gonzalez,UFC@gmail.com,123456789,Profesor
+12345678,Yosly Hernandez,y@gmail.com,12345678,Estudiante Exonerado
+87654321,Marcel Castro,m@gmail.com,123456789,Estudiante Becario
+99999999,Pipe,pipe@gmail.com,12345678,Estudiante

@@ -1,0 +1,2 @@
+Transacción: 2026-03-12 18:03 | Detalle: Recarga vía VentanaMonedero (Ref: 777777) | Nuevo saldo: 1000.00 bs
+Transacción: 2026-03-12 18:06 | Detalle: Pago del Servicio Comedor (Arroz con pollo, Tajadas, Agua) | Nuevo saldo: 994.23 bs
